@@ -28,6 +28,8 @@ public class GameManager : MonoBehaviour {
 			winText.enabled = false;
 		}
 
+
+
 		//DontDestroyOnLoad (gameObject);
 		//SceneManager.LoadScene ("Scenes/Stage1", LoadSceneMode.Single);
 	}
